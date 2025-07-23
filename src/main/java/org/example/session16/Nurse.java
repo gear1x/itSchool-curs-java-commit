@@ -7,6 +7,6 @@ public class Nurse extends Person {
 
     @Override
     public void performDuties() {
-        System.out.printf(getName() + "performs nurse duties.");
+        System.out.printf(getName() + " performs nurse duties.");
     }
 }
